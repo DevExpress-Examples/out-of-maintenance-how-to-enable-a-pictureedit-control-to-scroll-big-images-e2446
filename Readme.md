@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ScrollPictureEdit/Form1.cs) (VB: [Form1.vb](./VB/ScrollPictureEdit/Form1.vb))
+* [RepositoryItemScrollPictureEdit.cs](./CS/ScrollPictureEdit/RepositoryItemScrollPictureEdit.cs) (VB: [RepositoryItemScrollPictureEdit.vb](./VB/ScrollPictureEdit/RepositoryItemScrollPictureEdit.vb))
+* [ScrollPictureEdit.cs](./CS/ScrollPictureEdit/ScrollPictureEdit.cs) (VB: [ScrollPictureEdit.vb](./VB/ScrollPictureEdit/ScrollPictureEdit.vb))
+<!-- default file list end -->
 # How to enable a PictureEdit control to scroll big images
 
 
